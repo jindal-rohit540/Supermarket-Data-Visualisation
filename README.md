@@ -1,7 +1,8 @@
-# Supermarket-Data-Visualisation
-# Analysed Various business aspects of a supermarket chain with multiple branches to take informed decisions and wiseky allocate resources
 
-# Supermarket-Sales-Analysis
+# Analysed Various business aspects of a supermarket chain with multiple branches to take informed decisions and wisely allocate resources
+
+
+## Supermarket-Sales-Analysis
 
 A supermarket is self-service shop offering a wide variety of food, beverages and household products, organized into sections. It is larger and has a wider selection than earlier grocery stores, but is smaller and more limited in the range of merchandise than a hypermarket or big-box market.
 
